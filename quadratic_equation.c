@@ -1,4 +1,5 @@
 //finding the roots of a quadratic equation
+//you can find roots
 #include<stdio.h>
 #include<math.h>
 int main () {

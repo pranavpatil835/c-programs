@@ -5,7 +5,7 @@ int main () {
     float a,b,c,root1,root2,disc,imagep,realp;
     printf("enter a, b , c\n");
     scanf("%f %f %f", &a,&b,&c);
-    if(a==0&&b==0&&c==0) {
+    if(a==0 && b==0 && c==0) {
         printf("roots cannot be determined\n");
     }
     else{
